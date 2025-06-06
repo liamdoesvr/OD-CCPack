@@ -5,7 +5,7 @@ This pack is an un-official content creator asset pack for Orion Drift. It can b
 * Full Driftball District
 * The Orion (No districts, coming soon)
 * Heartball & Game Ball (Coming Soon)
-* Drifter IK Rig
+* Drifter IK Rig (Made by LiamDoesVR and wolfsyncc!)
 * More!
  
 ## ❓ FAQ
